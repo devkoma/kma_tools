@@ -1,7 +1,7 @@
 # kma_tools 
 
 ### Scripts / Tools
-* FiveM Cache Cleaner [[Source Code]](https://github.com/devkoma/kma_tools/blob/main/cache.bat) 
+* FiveM Cache Cleaner [[Source Code]](https://github.com/devkoma/kma_tools/blob/main/cache-cleaner.bat) 
 * more coming soon
 
 ## Informations
