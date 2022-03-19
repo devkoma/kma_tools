@@ -5,6 +5,6 @@
 * more coming soon
 
 ## Informations
-* Developer: Thomas H. | Koma#0001
+* Developer: Koma#0001
 * Version: 1.0.0
 * Updates / Fixes: YES 
